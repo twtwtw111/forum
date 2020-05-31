@@ -7,7 +7,7 @@ export default {
     page: {
         login: {
             title: '登录',
-            remember: '自动登录',
+            remember: '自动登录1',
             forgot: '忘记密码',
             submit: '登录',
             other: '其它登录方式',
